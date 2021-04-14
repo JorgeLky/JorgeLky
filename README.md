@@ -1,6 +1,6 @@
 ### Um pouco sobre mim: 👋
 
-<p>Prazer, sou o Jorge Lucas (não sou o diretor de star wars :flushed:), mineiro, 25 anos, atualmente cursando desenvolvimento full stack na Trybe <3.</p>
+<p>Prazer, sou o Jorge Lucas (não sou o diretor de star wars :flushed:), mineiro, 26 anos, Desenvolvedor Full Stack concluíndo a formação na Trybe <3.</p>
 <li>Amo jogos de todos os tipos, com preferência em jogos online :dragon:, e com uma paixão por jogos retrôs e jogos indies <3.</li>
 <li>Apaixonado por tecnologia desde quando eu era um suricatinho :two_hearts:.</li>
 <li>Um apreciador de músicas de todo tipo :musical_note: </li>
